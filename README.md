@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="anuragchatap | YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/107px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="anuragchatap | Twitter" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-circle/512/circle-twitter-512.png" />][twitter]
 [<img align="left" alt="anuragchatap | LinkedIn" width="22px" src="https://symbols.getvecta.com/stencil_87/39_linkedin-icon.bb10087100.svg" />][linkedin]
-[<img align="left" alt="anuragchatap | Instagram" width="22px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="anuragchatap | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
 
