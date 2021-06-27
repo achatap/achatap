@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="programesecure.com" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />][website]
+[<img align="left" alt="anuragchatap | email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="anuragchatap | YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
 [<img align="left" alt="anuragchatap | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="anuragchatap | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 [youtube]: https://www.youtube.com/channel/UC1q01fIyHP9Pwpb6QxPXIjA
 [instagram]: https://www.instagram.com/anuragchatap/
 [linkedin]: https://www.linkedin.com/in/anuragchatap/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BugiVvPgFQ7m1HIY7kPqWaw%3D%3D
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[gmail]: mailto:achatap@gmail.com
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achatap)](https://github.com/achatap/github-readme-stats)
