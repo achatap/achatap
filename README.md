@@ -12,4 +12,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact:  I spend almost 15 hours listening new Things about new Technology.
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achatap)](https://github.com/achatap/github-readme-stats)
 
