@@ -8,6 +8,8 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Front end/ Backend Automation...
 - ⚡ Fun fact:  I spend almost 15 hours listening new Things about new Technology.
 
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+
 ### Connect with me:
 
 [<img align="left" alt="programesecure.com" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />][website]
