@@ -8,8 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Front end/ Backend Automation...
 - ⚡ Fun fact:  I spend almost 15 hours listening new Things about new Technology.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achatap)](https://github.com/achatap/github-readme-stats)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -48,3 +46,7 @@ Here are some ideas to get you started:
 [instagram]: https://www.instagram.com/anuragchatap/
 [linkedin]: https://www.linkedin.com/in/anuragchatap/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BugiVvPgFQ7m1HIY7kPqWaw%3D%3D
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=achatap)](https://github.com/achatap/github-readme-stats)
+
