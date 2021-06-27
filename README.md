@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Docker and Linux.
 - 👯 I’m looking to collaborate on Automation Testing.
 
-### Connect with me:
+### 👯Connect with me:
 
 [<img align="left" alt="programesecure.com" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />][website]
 [<img align="left" alt="anuragchatap | email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
