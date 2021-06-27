@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [<img align="left" alt="anuragchatap | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 
 <br />
+<br />
+<br />
 
 ### Languages and Tools:
 
