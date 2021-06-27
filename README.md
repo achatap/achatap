@@ -1,7 +1,5 @@
 ### Hi there, I am Anurag Chatap 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on UI/API/APP Automation.
 - 🌱 I’m currently learning Docker and Linux.
 - 👯 I’m looking to collaborate on Automation Testing.
