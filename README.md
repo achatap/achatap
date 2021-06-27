@@ -5,8 +5,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on UI/API/APP Automation.
 - 🌱 I’m currently learning Docker and Linux.
 - 👯 I’m looking to collaborate on Automation Testing.
-- 🤔 I’m looking for help with Front end/ Backend Automation...
-- ⚡ Fun fact:  I spend almost 15 hours listening new Things about new Technology.
 
 ### Connect with me:
 
