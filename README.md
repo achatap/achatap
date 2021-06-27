@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <br />
 
-### Cloud Technology:
+### Testing and Other:
 
 <img align="left"  src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="cypress">
 
