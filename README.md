@@ -89,7 +89,7 @@
 [twitter]: https://twitter.com/anuragchatap1
 [youtube]: https://www.youtube.com/channel/UC1q01fIyHP9Pwpb6QxPXIjA
 [instagram]: https://www.instagram.com/anuragchatap
-[linkedin]: https://www.linkedin.com/in/anuragchatap/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BugiVvPgFQ7m1HIY7kPqWaw%3D%3D
+[linkedin]: https://www.linkedin.com/in/anuragchatap
 [gmail]: mailto:achatap@gmail.com
 
 
