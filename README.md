@@ -85,7 +85,7 @@
 <br />
 <br />
 
-[website]: https://prograesecure.com
+[website]: https://programesecure.com
 [twitter]: https://twitter.com/anuragchatap1
 [youtube]: https://www.youtube.com/channel/UC1q01fIyHP9Pwpb6QxPXIjA
 [instagram]: https://www.instagram.com/anuragchatap
